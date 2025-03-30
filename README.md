@@ -1,9 +1,5 @@
-# Click the below image to watch project demo vide
-<p align="center">
-  <a href="https://www.youtube.com/shorts/jFepyw2eSIc" target="_blank">
-    <img src="https://github.com/user-attachments/assets/bbd3436b-2d43-4309-a470-5a029a7475bb" alt="Watch the demo" width="100"/>
-  </a>
-</p>
+🎥 [Watch Demo Video on YouTube](https://www.youtube.com/shorts/jFepyw2eSIc)
+
 
 
 # project_flutter
