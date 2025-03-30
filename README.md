@@ -123,7 +123,9 @@ flutter test
 
 🎥 [Watch Demo Video on YouTube](https://www.youtube.com/shorts/jFepyw2eSIc)
 
-![Screenshot](assets/home-page.png)
+![Screenshot](https://github.com/user-attachments/assets/1892afac-198f-45a7-8c27-4f55af27616d)
+
+
 
 ---
 
