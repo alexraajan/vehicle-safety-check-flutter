@@ -121,11 +121,7 @@ flutter test
 
 ## 📸 Demo & Screenshots
 
-<p align="center">
-  <a href="https://www.youtube.com/shorts/jFepyw2eSIc" target="_blank">
-    <img src="assets/demo-thumbnail.png" alt="Watch Demo Video" width="350"/>
-  </a>
-</p>
+🎥 [Watch Demo Video on YouTube](https://www.youtube.com/shorts/jFepyw2eSIc)
 
 ![Screenshot](assets/home-page.png)
 
