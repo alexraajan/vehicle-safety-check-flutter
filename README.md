@@ -48,7 +48,7 @@ flutter test
 ## 🏗️ Folder Structure
 
 ```plaintext
-project_flutter/
+vehicle-safety-check-flutter/
 ├── lib/
 │   ├── services/
 │   │   ├── vehicle_service.dart       # All API calls separated for clean architecture
