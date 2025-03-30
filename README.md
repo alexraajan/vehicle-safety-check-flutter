@@ -1,3 +1,7 @@
+## 📹 Demo Video
+
+[▶️ Click to watch the demo video](assets/demo-video.mp4)
+
 # project_flutter
 
 A new Flutter project.
