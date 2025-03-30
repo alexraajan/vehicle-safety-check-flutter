@@ -1,5 +1,5 @@
 [![Watch the demo](https://github.com/user-attachments/assets/bbd3436b-2d43-4309-a470-5a029a7475bb.jpg)](https://www.youtube.com/shorts/jFepyw2eSIc)
-<img width="295" alt="image" src="https://github.com/user-attachments/assets/bbd3436b-2d43-4309-a470-5a029a7475bb" />
+
 
 
 # project_flutter
