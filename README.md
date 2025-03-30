@@ -1,4 +1,4 @@
-<p align="center">
+<p >
   <a href="https://www.youtube.com/shorts/jFepyw2eSIc">
     <img src="https://github.com/user-attachments/assets/bbd3436b-2d43-4309-a470-5a029a7475bb" alt="Watch the demo" width="100"/>
   </a>
