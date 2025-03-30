@@ -121,7 +121,7 @@ flutter test
 
 ## 📸 Demo & Screenshots
 
-🎥 [Watch Demo Video on YouTube](https://www.youtube.com/shorts/jFepyw2eSIc)
+🎥 [Watch Demo Video on YouTube](https://youtube.com/shorts/bdgjEDW897k)
 
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/a924ace3-ec0f-4699-b47e-69698170801e" />
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/d9c86af5-8261-4052-857d-e512cb9f69de" />
