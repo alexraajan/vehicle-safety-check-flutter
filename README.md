@@ -1,6 +1,4 @@
-## 📹 Demo Video
-
-[▶️ Click to watch the demo video](assets/demo-video.mp4)
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/shorts/jFepyw2eSIc)
 
 # project_flutter
 
