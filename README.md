@@ -136,5 +136,3 @@ flutter test
 
 ---
 
-## 📬 Feedback
-For any questions, feel free to reach out via GitHub issues or discussions.
