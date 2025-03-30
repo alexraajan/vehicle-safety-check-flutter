@@ -34,15 +34,7 @@ class _HomeState extends State<Home> {
   String? validateVehicleNumber(String? value) {
     if (value == null || value.trim().isEmpty) {
       return null;
-    }
-
-    final cleaned = value.trim().toUpperCase();
-    final vehicleNoReg = RegExp(r'^[A-Z0-9\- ]{5,10}\$');
-
-    if (!vehicleNoReg.hasMatch(cleaned)) {
-      return 'Invalid vehicle number (5–10 chars: A-Z, 0–9, hyphen, space)';
-    }
-
+    }    
     return null;
   }
 
