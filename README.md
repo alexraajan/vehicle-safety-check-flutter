@@ -60,7 +60,10 @@ project_flutter/
 │   ├── vehicle_service_test.dart
 │   └── widgets/
 │       └── add_vehicle_page_test.dart
-├── assets/                            # Includes demo image/video
+|       └──edit_vehicle_page_test.dart
+|       └──edit_vehicle_page_test.dart
+|
+├── assets/  # Includes demo video
 └── pubspec.yaml
 ```
 
