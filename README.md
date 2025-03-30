@@ -1,4 +1,4 @@
-[![Watch the demo](https://github.com/user-attachments/assets/bbd3436b-2d43-4309-a470-5a029a7475bb.jpg)](https://www.youtube.com/shorts/jFepyw2eSIc)
+[![Watch the demo](https://github.com/user-attachments/assets/bbd3436b-2d43-4309-a470-5a029a7475bb)](https://www.youtube.com/shorts/jFepyw2eSIc)
 
 
 
